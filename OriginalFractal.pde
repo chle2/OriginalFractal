@@ -1,5 +1,5 @@
 public void settings() { 
- size (400,400);  
+ size (800,800);  
 }
 
 public void setup(){
