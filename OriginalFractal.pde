@@ -1,5 +1,5 @@
 public void setup() { 
- size (800,800); 
+ size (400,400); 
  rectMode(CENTER);
 myFractal(200,200,300); 
 }
